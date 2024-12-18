@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.wkds.refinecompose"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.wkds.refinecompose"
